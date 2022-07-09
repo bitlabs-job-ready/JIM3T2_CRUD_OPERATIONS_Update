@@ -1,0 +1,20 @@
+3.Update the data on database using Hibernate Application
+
+	A.emp_id.
+	B.emp_name.
+	C.emp_salary.
+	D.emp_department.
+
+
+
+create DAO layer for database operations.
+
+*emp-id has to be generated automatically.
+
+*"Employee" table has to be created  at the starting.
+
+1.Add employee records to the database .
+
+2.Display all records from "Employee" table.
+
+3.Update employee table
